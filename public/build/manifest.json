@@ -20,7 +20,7 @@
     "isEntry": true
   },
   "resources/css/font-awesome.min.css": {
-    "file": "assets/font-awesome-BEQbVvmf.css",
+    "file": "assets/font-awesome-DYkovYe3.css",
     "src": "resources/css/font-awesome.min.css",
     "isEntry": true
   },
@@ -68,6 +68,26 @@
     "file": "assets/tippy-DdaK0XRn.css",
     "src": "resources/css/tippy.css",
     "isEntry": true
+  },
+  "resources/fonts/fa-regular-400.eot": {
+    "file": "assets/fa-regular-400-BhTwtT8w.eot",
+    "src": "resources/fonts/fa-regular-400.eot"
+  },
+  "resources/fonts/fa-regular-400.svg": {
+    "file": "assets/fa-regular-400-gwj8Pxq-.svg",
+    "src": "resources/fonts/fa-regular-400.svg"
+  },
+  "resources/fonts/fa-regular-400.ttf": {
+    "file": "assets/fa-regular-400-D1vz6WBx.ttf",
+    "src": "resources/fonts/fa-regular-400.ttf"
+  },
+  "resources/fonts/fa-regular-400.woff": {
+    "file": "assets/fa-regular-400-DFnMcJPd.woff",
+    "src": "resources/fonts/fa-regular-400.woff"
+  },
+  "resources/fonts/fa-regular-400.woff2": {
+    "file": "assets/fa-regular-400-DGzu1beS.woff2",
+    "src": "resources/fonts/fa-regular-400.woff2"
   },
   "resources/js/app.js": {
     "file": "assets/app-Cs0QkU1O.js",
