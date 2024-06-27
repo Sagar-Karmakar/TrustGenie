@@ -12,7 +12,7 @@ Here’s a structured work process to start and execute the Trust Genie CRM proj
 
 -   **Duration**: 1 week
 -   **Key Activities**:
-    -   ~~Implement authentication (login, registration, password reset)
+    -   ~~Implement authentication (login, password reset)
     -   ~~Set up role-based access control (Customer, Partner, Professional, Admin)
     -   ~~Create initial user roles and permissions
 
